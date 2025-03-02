@@ -125,6 +125,19 @@ strong{
   margin: 0;
 }
 
+.about ul .li-index-1::marker,
+.about ul .li-index-1 {
+  color: #591B98;
+}
+.about ul .li-index-2::marker,
+.about ul .li-index-2 {
+  color: #E5245E;
+}
+.about ul .li-index-3::marker,
+.about ul .li-index-3 {
+  color: #E95E10;
+}
+
 footer{
  margin-top: 68px;
  text-align: center;
